@@ -1,0 +1,19 @@
+{
+    "recipes":[
+        {
+            "id": 1,
+            "name": "Lasaña",
+            "detail": "Detalle de la receta"
+        },
+        {
+            "id": 2,
+            "name": "Pizza",
+            "detail": "Detalle de la receta"
+        },
+        {
+            "id": 3,
+            "name": "Tiramisú",
+            "detail": "Detalle de la receta"
+        }
+    ]
+}
